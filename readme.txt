@@ -35,32 +35,28 @@ DATA & FILE OVERVIEW
 
 1. File List: See below. 
 
-2. Relationship between files, if important: See below.
+2. Relationship between files, if important: See below. 
 
-3. Additional related data collected that was not included in the current data package: fMRI data from recall - please e-mail the Lead Contact (james.ward.antony@gmail.com) if interested!
+3. Additional related data collected that was not included in the current data package: N/A
 
 4. Are there multiple versions of the dataset? no
 
 
 METHODOLOGICAL INFORMATION
 
-1. Description of methods used for collection/generation of data: See below for a grand overview. 
+1. Description of methods used for collection/generation of data: See main text. 
 
+2. Methods for processing the data: See main text. 
 
-2. Methods for processing the data: See below for a grand overview. 
-
-
-3. Instrument- or software-specific information needed to interpret the data: MATLAB, Python, R. 
-
+3. Instrument- or software-specific information needed to interpret the data: Python.
 
 4. Standards and calibration information, if appropriate: 
 
-5. Environmental/experimental conditions: See paper. 
+5. Environmental/experimental conditions: See main text. 
 
-6. Describe any quality-assurance procedures performed on the data: MRIQC performs quality control checks on fMRIPREP analyses.
+6. Describe any quality-assurance procedures performed on the data: 
 
 7. People involved with sample collection, processing, analysis and/or submission: E-mail the lead contact (james.ward.antony@gmail.com) for questions!
-
 
 ---
 
