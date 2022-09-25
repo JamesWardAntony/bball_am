@@ -33,9 +33,9 @@ SHARING/ACCESS INFORMATION
 
 DATA & FILE OVERVIEW
 
-1. File List: See below for a grand overview. 
+1. File List: See below. 
 
-2. Relationship between files, if important: See AnalysisOverview.key file for graphical overview of how all of the latent variable and analysis scripts flow together. 
+2. Relationship between files, if important: See below.
 
 3. Additional related data collected that was not included in the current data package: fMRI data from recall - please e-mail the Lead Contact (james.ward.antony@gmail.com) if interested!
 
